@@ -1,0 +1,27 @@
+<view class="container">
+<view class="title">
+
+<view class="lunar">
+<text>农历</text>
+<text>{{lunar}}</text>
+</view>
+
+<view style='display:flex;flex-direction:column;text-align:right;width:35%;'>
+<text class="week">{{week}}</text>
+<text class="date">{{date}}</text>
+</view>
+</view>
+
+<view class="con"> 
+<image src="/images/animal.jpg" ></image>
+</view>
+
+<view class="text-con">
+<p class="name">猞猁</p>
+<p class="eng-name">Lynx lynx</p>
+<p style="padding-top:5px;">  
+属于猫科，体型似猫而远大于猫，体粗壮，尾极短，通常不及头体长的1/4。
+为喜寒动物，栖息环境极富多样性。喜独居，长于攀爬及游泳，耐饥性强，可在一处静卧几日，不畏严寒，以鼠类、野兔等为食，也捕食小野猪和小鹿等为食。巢穴多筑在岩缝石洞或树洞内。每胎2-4仔。广泛分布于欧洲和亚洲北部。是罗马尼亚的国兽。
+</p>
+</view>
+</view>

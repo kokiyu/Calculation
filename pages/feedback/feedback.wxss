@@ -1,0 +1,31 @@
+.feed-back{
+width: 90%;
+margin: 0 auto;
+color: #9b8f83;
+}
+
+.hello{
+  padding-top: 10%;
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.question{
+padding-top: 10%;
+font-size: 15px;
+border-bottom: 1px solid gray;
+}
+.fake{
+  width: 90%;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.fake-button{
+  border: 1px solid #9b8f83;
+  border-radius: 10px;
+  padding:10px 80px;
+  text-align: center;
+  letter-spacing: 5px;
+}

@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/today/today",
+    "pages/feedback/feedback",
+    "pages/logs/logs"
+  ],
+  "tabBar": {
+    "selectedColor":"#d81e06",
+    "list": [
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "计划",
+        "iconPath":"./images/c.png",
+        "selectedIconPath":"./images/c1.png"
+      },
+          {
+            "pagePath": "pages/today/today",
+            "text": "日历",
+            "iconPath": "./images/pen.png",
+            "selectedIconPath": "./images/pen-BS.png"
+          },
+      {
+        "pagePath": "pages/feedback/feedback",
+        "text": "吐槽作者",
+        "iconPath": "./images/talk.png",
+        "selectedIconPath": "./images/talk-BS.png"
+      }
+    ]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

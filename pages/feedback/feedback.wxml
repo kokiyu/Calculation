@@ -1,0 +1,7 @@
+<view class="feed-back">
+<p class="hello">你好作者，</p>
+<input class="question" placeholder="我想对你说……" auto-focus/>
+<view class="fake">
+<p class="fake-button">提交</p>
+</view>
+</view>
