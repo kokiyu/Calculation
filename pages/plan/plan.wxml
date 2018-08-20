@@ -1,0 +1,17 @@
+<view class="container">
+
+<view class='plan'>
+<view class='title'>紧急计划</view>
+<scroll-view scroll-y style="height: 400px;width:100%;">
+<view class='item'>1.先去买菜</view>
+<view class='item'>1.先去买菜</view>
+
+</scroll-view >
+</view>
+
+<view class='btn'>
+<view class='left-btn'>新计划</view>
+<view class='left-btn'>保存</view>
+</view>
+
+</view>

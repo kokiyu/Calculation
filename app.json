@@ -1,14 +1,14 @@
 {
   "pages":[
+    "pages/plan/plan",
     "pages/today/today",
-    "pages/feedback/feedback",
-    "pages/logs/logs"
+    "pages/feedback/feedback"
   ],
   "tabBar": {
     "selectedColor":"#d81e06",
     "list": [
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/plan/plan",
         "text": "计划",
         "iconPath":"./images/c.png",
         "selectedIconPath":"./images/c1.png"
